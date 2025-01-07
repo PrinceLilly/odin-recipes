@@ -1,3 +1,3 @@
 # odin-recipes
 
-What did I do and what have I learned?
+Created index file with links to 3 recipe pages
